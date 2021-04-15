@@ -1,0 +1,2 @@
+numpy==1.20.1
+python-math==0.0.1
