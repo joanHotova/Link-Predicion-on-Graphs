@@ -1,4 +1,4 @@
-# Link Predicion on Graphs, based on Data Structure
+# Link Prediction on Graphs, based on Data Structure
 This project is part of "DATA TYPES-DATABASES-BIOLOGICAL DATABASE DESIGN" course of MSc Bioinformatics-Computational Biology of UoA.
 Copyright(C) 2021 Ioanna Kiourti, Ioanna Soulioti, Joana Hotova
 
